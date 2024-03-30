@@ -37,7 +37,7 @@ nav {
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 36px;
     margin-top: 5px;
     margin-bottom: 0px;
@@ -64,7 +64,7 @@ article {
 
 .article-but {
     text-decoration: none;
-    background-color: grey;
+    background-color: #4A60D7;
     color: black;
     font-size: 24px;
     text-align: center;
